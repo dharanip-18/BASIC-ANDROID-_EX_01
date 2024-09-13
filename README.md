@@ -120,10 +120,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![365599059-c5ffb66a-8a46-43f6-80ae-6cee68eb1314](https://github.com/user-attachments/assets/8d0b54c6-1860-4b58-8e5b-659820c8c267)
 
-![365599188-8a8709a0-89f6-4117-bd6a-c963f240cbc9](https://github.com/user-attachments/assets/4ba1906b-ce7c-406b-9d64-c3871deb9c86)
+![Screenshot 2024-09-13 212301](https://github.com/user-attachments/assets/65dc7211-34bb-4f0f-a8be-508623d6c249)
 
+
+![Screenshot 2024-09-13 212413](https://github.com/user-attachments/assets/1a5b0e71-1c32-467b-905c-662ad4a334ae)
 
 
 
